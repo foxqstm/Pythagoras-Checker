@@ -1,2 +1,4 @@
 # Pythagoras-Checker
-Check A^a+B^b=n^2 => (a,b)=(2,2)
+Check the number of solution is more than 2.
+s.t. A^a+B^b=n^2.
+ 
